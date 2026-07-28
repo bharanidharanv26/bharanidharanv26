@@ -82,11 +82,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<p align="center">
-🚁 ESP32 • Betaflight • Mission Planner • Scikit-Learn
-</p>
 
----
 
 <h2 align="center">🚀 Current Focus</h2>
 
