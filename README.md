@@ -1,9 +1,20 @@
-<h1 align="center">I'm Bharanidharan V</h1>
-
 <p align="center">
-<i>Building real-world solutions with AI, Robotics & Modern Web Technologies.</i>
+  <img src="https://www.esquire.com/lifestyle/a22886209/marvel-spider-man-video-game-review/" width="100%">
 </p>
 
+<h1 align="center">Hi 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=I'm+Bharanidharan+V" />
+</p>
+
+<h3 align="center">
+🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast
+</h3>
+
+<p align="center">
+<i>🕷️ Building the future, one project at a time.</i>
+</p>
 <h2 align="center">🙋 About Me</h2>
 
 <p align="center">
