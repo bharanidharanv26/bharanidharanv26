@@ -2,8 +2,6 @@
   <img src="https://www.esquire.com/lifestyle/a22886209/marvel-spider-man-video-game-review/" width="100%">
 </p>
 
-<h1 align="center">Hi 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=I'm+Bharanidharan+V" />
 </p>
