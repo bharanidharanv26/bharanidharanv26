@@ -1,234 +1,86 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Bharanidharan V</h1>
 
-# 👋 Hi, I'm Bharanidharan V
-
-### 🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI & ML Enthusiast
-
-*"Always Building. Always Learning."*
-
-</div>
-
----
-
-# 🕷️ About Me
-
-- 🎓 Computer Science Engineering Student at **LICET, Chennai**
-- 🚁 Passionate about **Drone Development**, **FPV Systems**, and Embedded Technology
-- 💻 Building modern **Full-Stack Web Applications**
-- 🤖 Exploring **Artificial Intelligence**, **Machine Learning**, and Computer Vision
-- ❤️ Currently developing **Little Drops**, an NGO Management System
-- 🎯 Goal: Build technology that solves real-world problems
-
----
-
-# 🚀 Current Focus
-
-❤️ Little Drops – NGO Management System
-
-🚁 ESP32 FPV Drone Development
-
-🤖 AI & Machine Learning
-
-🌐 Full-Stack Development
-
----
-
-# 🛠 Tech Stack
-
-### 💻 Programming
+<h3 align="center">
+🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast
+</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-Python
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-Java
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-C
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-C++
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-JavaScript
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-TypeScript
-
+<i>Building real-world solutions with AI, Robotics & Modern Web Technologies.</i>
 </p>
 
 ---
 
-### 🌐 Web Development
+<h2 align="center">🙋 About Me</h2>
 
 <p align="center">
+🎓 CSE Student @ <b>LICET, Chennai</b>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html"/>
+<p align="center">
+🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast
+</p>
 
-HTML
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-CSS
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-React
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-Node.js
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-Express
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-Spring Boot
-
+<p align="center">
+❤️ Currently building <b>Little Drops</b> – NGO Management System
 </p>
 
 ---
 
-### 🗄 Databases
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css,react,nodejs,express,spring,mysql,mongodb,supabase,tensorflow,opencv,arduino,raspberrypi,git,github,vscode,linux,figma&perline=8" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-MySQL
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-MongoDB
-
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-Supabase
-
+<p align="center">
+🚁 ESP32 • Betaflight • Mission Planner • Scikit-Learn
 </p>
 
 ---
 
-### 🤖 AI & ML
+<h2 align="center">🚀 Current Focus</h2>
 
 <p align="center">
+❤️ Developing <b>Little Drops</b> – NGO Management System
+</p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<p align="center">
+🚁 Building FPV Racing Drone Projects
+</p>
 
-TensorFlow
+<p align="center">
+🤖 Exploring AI, Computer Vision & Deep Learning
+</p>
 
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-OpenCV
-
-🧠 Scikit-Learn
-
+<p align="center">
+🌱 Continuously improving my Full-Stack Development skills
 </p>
 
 ---
 
-### 🚁 Drone Development
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-
-⚡ ESP32
-
-🔧 Arduino
-
-🍓 Raspberry Pi
-
-✈️ Betaflight
-
-📡 Mission Planner
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharanidharanv26&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharanv26&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### 🛠 Tools
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/bharani-dharan-1a6318316">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=git"/>
-
-Git
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-GitHub
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-VS Code
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-Linux
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-Figma
-
+<a href="mailto:bharanidharan.28csa@licet.ac.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 📌 Featured Projects
-
-❤️ Little Drops
-
-> NGO Management Platform (Currently Building)
-
-🚁 ESP32 FPV Drone
-
-> Low-cost drone built using ESP32
-
-🤖 AI Learning
-
-> Exploring Machine Learning & Computer Vision
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharanidharanv26&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharanv26&layout=compact&theme=transparent"/>
-
+<i>"Always Building. Always Learning."</i>
 </p>
-
----
-
-# 📫 Connect
-
-<p align="center">
-
-💼 LinkedIn
-
-📧 bharanidharan.28csa@licet.ac.in
-
-</p>
-
----
-
-<div align="center">
-
-## 🕷️
-
-### "Technology becomes meaningful when it solves real-world problems."
-
-⭐ Thanks for visiting my profile.
-
-</div>
