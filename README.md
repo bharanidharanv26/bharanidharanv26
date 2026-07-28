@@ -7,3 +7,6 @@
 <p align="center">
 Building real-world projects with AI, Robotics, and Modern Web Technologies.
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Drone+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Building+%26+Learning" />
+</p>
