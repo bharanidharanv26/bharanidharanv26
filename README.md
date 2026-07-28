@@ -1,9 +1,5 @@
 <h1 align="center">I'm Bharanidharan V</h1>
 
-<h3 align="center">
-Drone Developer • Full-Stack Developer • AI/ML Enthusiast
-</h3>
-
 <p align="center">
 <i>Building real-world solutions with AI, Robotics & Modern Web Technologies.</i>
 </p>
@@ -96,8 +92,6 @@ Drone Developer • Full-Stack Developer • AI/ML Enthusiast
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
 
 <p align="center">
 <i>"Always Building. Always Learning."</i>
