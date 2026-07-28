@@ -1,137 +1,234 @@
-<h1 align="center">Hi 👋, I'm Bharanidharan V</h1>
+<div align="center">
 
-<h3 align="center">
-🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast
-</h3>
+# 👋 Hi, I'm Bharanidharan V
 
-<p align="center">
-<i>Building real-world solutions with AI, Robotics & Modern Web Technologies.</i>
-</p>
+### 🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI & ML Enthusiast
 
-<h2 align="center">🙋 About Me</h2>
+*"Always Building. Always Learning."*
 
-<p align="center">
-CSE Student @ LICET, Chennai
-</p>
+</div>
 
-<p align="center">
-Drone Developer • Full-Stack Developer • AI/ML Enthusiast
-</p>
+---
 
+# 🕷️ About Me
 
-<h2 align="center">🛠️ Tech Stack</h2>
+- 🎓 Computer Science Engineering Student at **LICET, Chennai**
+- 🚁 Passionate about **Drone Development**, **FPV Systems**, and Embedded Technology
+- 💻 Building modern **Full-Stack Web Applications**
+- 🤖 Exploring **Artificial Intelligence**, **Machine Learning**, and Computer Vision
+- ❤️ Currently developing **Little Drops**, an NGO Management System
+- 🎯 Goal: Build technology that solves real-world problems
 
-<h3 align="center">💻 Programming Languages</h3>
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+# 🚀 Current Focus
 
-<h3 align="center">🌐 Web Development</h3>
+❤️ Little Drops – NGO Management System
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
+🚁 ESP32 FPV Drone Development
 
-<h3 align="center">🗄️ Databases</h3>
+🤖 AI & Machine Learning
+
+🌐 Full-Stack Development
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Programming
 
 <p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
 
-<h3 align="center">🤖 AI / ML</h3>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
+Python
 
-<h3 align="center">🚁 Drone & Embedded</h3>
+<img src="https://skillicons.dev/icons?i=java"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Betaflight-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mission_Planner-007ACC?style=for-the-badge"/>
-</p>
+Java
 
-<h3 align="center">⚙️ Tools</h3>
+<img src="https://skillicons.dev/icons?i=c"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+C
 
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
+C++
 
-<h2 align="center">🚀 Current Focus</h2>
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-<p align="center">
-❤️ Developing <b>Little Drops</b> – A Full-Stack NGO Management System
-</p>
+JavaScript
 
-<p align="center">
-🚁 Building FPV Racing Drone Projects
-</p>
+<img src="https://skillicons.dev/icons?i=typescript"/>
 
-<p align="center">
-🤖 Exploring AI, Computer Vision & Deep Learning
-</p>
+TypeScript
 
-<p align="center">
-🌱 Continuously improving my Full-Stack Development skills
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 🌐 Web Development
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharanidharanv26&show_icons=true&theme=transparent&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharanv26&layout=compact&theme=transparent&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+HTML
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+CSS
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+React
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+Node.js
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+Express
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+Spring Boot
+
 </p>
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+### 🗄 Databases
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bharanidharanv26&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+MySQL
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+MongoDB
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+Supabase
+
 </p>
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+### 🤖 AI & ML
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bharani-dharan-1a6318316">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:bharanidharan.28csa@licet.ac.in">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+TensorFlow
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+OpenCV
+
+🧠 Scikit-Learn
+
 </p>
 
 ---
 
+### 🚁 Drone Development
+
 <p align="center">
-<i>"Building today for a smarter tomorrow."</i>
+
+⚡ ESP32
+
+🔧 Arduino
+
+🍓 Raspberry Pi
+
+✈️ Betaflight
+
+📡 Mission Planner
+
 </p>
+
+---
+
+### 🛠 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+Git
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+GitHub
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+VS Code
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+Linux
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+Figma
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+❤️ Little Drops
+
+> NGO Management Platform (Currently Building)
+
+🚁 ESP32 FPV Drone
+
+> Low-cost drone built using ESP32
+
+🤖 AI Learning
+
+> Exploring Machine Learning & Computer Vision
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharanidharanv26&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharanv26&layout=compact&theme=transparent"/>
+
+</p>
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+💼 LinkedIn
+
+📧 bharanidharan.28csa@licet.ac.in
+
+</p>
+
+---
+
+<div align="center">
+
+## 🕷️
+
+### "Technology becomes meaningful when it solves real-world problems."
+
+⭐ Thanks for visiting my profile.
+
+</div>
