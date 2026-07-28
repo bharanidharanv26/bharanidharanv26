@@ -11,16 +11,13 @@
 <h2 align="center">🙋 About Me</h2>
 
 <p align="center">
-🎓 CSE Student @ LICET, Chennai
+CSE Student @ LICET, Chennai
 </p>
 
 <p align="center">
-🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast
+Drone Developer • Full-Stack Developer • AI/ML Enthusiast
 </p>
 
-<p align="center">
-❤️ Currently building <b>Little Drops</b> – NGO Management System
-</p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
