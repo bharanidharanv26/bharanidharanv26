@@ -13,7 +13,7 @@
 
 - 🎓 Computer Science Engineering Student at **LICET, Chennai**
 - 🚁 Passionate about **Drone Development** and **FPV Technology**
-- 💻 Building **Full Stack Web Applications** using React, Spring Boot, and modern web technologies
+- 💻 Building **Full Stack Web Applications** using React and modern web technologies
 - 🤖 Currently exploring **Artificial Intelligence, Machine Learning, and Deep Learning**
-- 🌱 Learning **Computer Vision, Embedded Systems, and Drone Technologies**
+- 🌱 Learning **Drone Technologies**
 - 💡 I enjoy building projects that solve real-world problems through technology.
