@@ -6,14 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=I'm+Bharanidharan+V" />
 </p>
 
-<h3 align="center">
-🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast
-</h3>
 
 <p align="center">
 <i>🕷️ Building the future, one project at a time.</i>
 </p>
-<h2 align="center">🙋 About Me</h2>
 
 <p align="center">
 🎓 CSE Student @ <b>LICET, Chennai</b>
