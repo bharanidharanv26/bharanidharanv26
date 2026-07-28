@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.esquire.com/lifestyle/a22886209/marvel-spider-man-video-game-review/"](https://www.google.com/imgres?q=spiderman1280%20%C3%97%20400%20px&imgurl=https%3A%2F%2Fimages.hdqwalls.com%2Fwallpapers%2Fbthumb%2Fspiderman-not-just-a-hero-a-legend-5l.jpg&imgrefurl=https%3A%2F%2Fhdqwalls.com%2F1280x800%2Fspiderman-wallpapers&docid=xvqpOVluuiONjM&tbnid=C4O811QN8BUSTM&vet=12ahUKEwi969fH5vSVAxUVT2wGHTV2AoEQnPAOegUIuwIQAA..i&w=602&h=339&hcb=2&ved=2ahUKEwi969fH5vSVAxUVT2wGHTV2AoEQnPAOegUIuwIQAA)" width="100%">
+  <img src="https://raw.githubusercontent.com/bharanidharanv26/bharanidharanv26/main/banner.png" width="100%" alt="Spider-Man Banner">
 </p>
 
 <p align="center">
