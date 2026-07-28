@@ -74,13 +74,6 @@ Drone Developer • Full-Stack Developer • AI/ML Enthusiast
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharanidharanv26&show_icons=true&theme=transparent&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharanv26&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
