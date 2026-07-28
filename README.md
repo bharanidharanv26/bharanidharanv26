@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bharanidharanv26/bharanidharanv26/main/banner.png" width="100%"](https://github.com/bharanidharanv26/bharanidharanv26/blob/main/spiderman.jpg" >
+  <img src="https://raw.githubusercontent.com/bharanidharanv26/bharanidharanv26/main/spiderman.jpg" width="100%" alt="Spider-Man Banner">
 </p>
 
 <p align="center">
