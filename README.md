@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bharanidharan V</h1>
+<h1 align="center">I'm Bharanidharan V</h1>
 
 <h3 align="center">
-🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast
+Drone Developer • Full-Stack Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
 <i>Building real-world solutions with AI, Robotics & Modern Web Technologies.</i>
 </p>
-
----
 
 <h2 align="center">🙋 About Me</h2>
 
@@ -17,16 +15,8 @@
 </p>
 
 <p align="center">
-🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast
+Drone Developer • Full-Stack Developer • AI/ML Enthusiast
 </p>
-
-<p align="center">
-❤️ Currently building <b>Little Drops</b> – NGO Management System
-</p>
-
----
-
----
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -88,34 +78,12 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<h2 align="center">🚀 Current Focus</h2>
-
-<p align="center">
-❤️ Developing <b>Little Drops</b> – NGO Management System
-</p>
-
-<p align="center">
-🚁 Building FPV Racing Drone Projects
-</p>
-
-<p align="center">
-🤖 Exploring AI, Computer Vision & Deep Learning
-</p>
-
-<p align="center">
-🌱 Continuously improving my Full-Stack Development skills
-</p>
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bharanidharanv26&show_icons=true&theme=transparent&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharanv26&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
----
 
 <h2 align="center">📫 Connect With Me</h2>
 
