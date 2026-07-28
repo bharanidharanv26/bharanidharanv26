@@ -8,37 +8,19 @@
 <i>Building real-world solutions with AI, Robotics & Modern Web Technologies.</i>
 </p>
 
----
-
 <h2 align="center">🙋 About Me</h2>
 
 <p align="center">
-🎓 B.E. Computer Science Engineering Student at <b>LICET, Chennai</b>
+🎓 CSE Student @ LICET, Chennai
 </p>
 
 <p align="center">
-🚁 Passionate about <b>Drone Development</b>, <b>FPV Systems</b>, and Robotics
+🚁 Drone Developer • 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast
 </p>
 
 <p align="center">
-💻 Building <b>Full-Stack Web Applications</b> using React, Spring Boot, and modern web technologies
+❤️ Currently building <b>Little Drops</b> – NGO Management System
 </p>
-
-<p align="center">
-🤖 Exploring <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Deep Learning</b>
-</p>
-
-<p align="center">
-🌱 Learning <b>Computer Vision</b>, <b>Embedded Systems</b>, and Drone Technologies
-</p>
-
-<p align="center">
-💡 I enjoy building technology that solves real-world problems.
-</p>
-
----
-
----
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
