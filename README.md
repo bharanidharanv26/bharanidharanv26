@@ -3,16 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=I'm+Bharanidharan+V" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Bharanidharan+V" />
 </p>
-
 
 <p align="center">
 <i>🕷️ Building the future, one project at a time.</i>
 </p>
 
 <p align="center">
-🎓 CSE Student @ <b>LICET, Chennai</b>
+ CSE Student @ <b>LICET, Chennai</b>
 </p>
 
 <p align="center">
