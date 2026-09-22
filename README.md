@@ -100,3 +100,23 @@ Drone Developer • Full-Stack Developer • AI/ML Enthusiast
 <p align="center">
 <i>"Always Building. Always Learning."</i>
 </p>
+
+
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bharanidharanv26/bharanidharanv26/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bharanidharanv26/bharanidharanv26/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/bharanidharanv26/bharanidharanv26/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</div>
