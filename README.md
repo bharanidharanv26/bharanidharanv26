@@ -2,9 +2,16 @@
   <img src="https://raw.githubusercontent.com/bharanidharanv26/bharanidharanv26/main/sp.jpg" width="100%" alt="Spider-Man Banner">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Bharanidharan+V" />
-</p>
+<div align="center">
+  <pre style="font-family:monospace;line-height:1;margin:0;">
+██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗██╗██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
+██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║██║██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║
+██████╔╝███████║███████║██████╔╝███████║██╔██╗ ██║██║██║  ██║███████║███████║██████╔╝███████║██╔██╗ ██║
+██╔══██╗██╔══██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║██║██║  ██║██╔══██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║
+██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║██║██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+  </pre>
+</div>
 
 <p align="center">
 <i>🕷️ Building the future, one project at a time.</i>
