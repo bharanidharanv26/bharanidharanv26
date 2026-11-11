@@ -101,7 +101,6 @@ Drone Developer • Full-Stack Developer • AI/ML Enthusiast
 <i>"Always Building. Always Learning"</i>
 </p>
 
-
 <div align="center">
   <picture>
     <source
