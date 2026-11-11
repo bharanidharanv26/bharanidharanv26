@@ -102,7 +102,6 @@ Drone Developer • Full-Stack Developer • AI/ML Enthusiast
 </p>
 
 
-
 <div align="center">
   <picture>
     <source
