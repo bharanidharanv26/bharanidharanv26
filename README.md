@@ -91,7 +91,6 @@ Drone Developer • Full-Stack Developer • AI/ML Enthusiast
 <a href="https://www.linkedin.com/in/bharani-dharan-1a6318316">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:bharanidharan.28csa@licet.ac.in">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
